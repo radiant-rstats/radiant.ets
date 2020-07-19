@@ -1,0 +1,13 @@
+> ARIMA
+
+## Example
+
+Suppose ...
+
+### Report > Rmd
+
+Add code to <a href="https://radiant-rstats.github.io/docs/data/report_rmd.html" target="_blank">_Report > Rmd_</a> to (re)create the design by clicking the <i title="report results" class="fa fa-edit"></i> icon on the bottom left of your screen or by pressing `ALT-enter` on your keyboard. 
+
+### R-functions
+
+For an overview of related R-functions used by Radiant for Time-series analysis see <a href = "https://radiant-rstats.github.io/radiant.ets/reference/index.html" target="_blank">_Time-series > ARIMA_</a>

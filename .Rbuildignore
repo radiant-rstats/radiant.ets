@@ -1,0 +1,11 @@
+^CRAN-RELEASE$
+^.*\.Rproj$
+^\.Rproj\.user$
+^inst/rstudio$
+^build$
+^docs$
+^vignettes$
+_pkgdown.yml
+cran-comments.md
+.vscode
+radiant.ets.code-workspace
